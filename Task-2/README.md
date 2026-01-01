@@ -1,4 +1,4 @@
-# 🧮 Task 2: Simple Calculator (Python)
+# 🧮 Task 2: Simple Calculator
 
 ## 🎯 Objective
 The objective of this task is to design a simple calculator using Python
@@ -30,3 +30,4 @@ The program is simple and beginner-friendly.
 - Learned how to take and validate user input
 - Practiced implementing arithmetic logic in Python
 - Enhanced problem-solving skills
+
