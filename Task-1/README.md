@@ -1,19 +1,31 @@
-# Task 1: To-Do List using Python
+# Task 1: To-Do List Application
 
 ## Objective
-To create a simple To-Do List application using Python that helps users manage daily tasks.
+The objective of this task is to build a simple To-Do List application
+using Python that helps users manage their daily tasks efficiently.
+
+## Description
+This application allows the user to add, view, and remove tasks.
+The program runs in a loop and updates the task list based on user input.
+It is designed to be simple, clear, and easy to use.
 
 ## Features
-- Add new tasks
-- View existing tasks
-- Delete tasks
-- User-friendly menu system
+- Add new tasks to the list
+- Display all existing tasks
+- Remove a task using its number
+- Handles invalid input properly
 
 ## Approach
-- Used a list to store tasks
-- Implemented a menu-driven program
-- Used loops and conditional statements for user interaction
+- Used a Python list to store tasks
+- Displayed the task list before each action
+- Took user input to perform operations like add and remove
+- Used conditional statements and loops to control the program flow
+
+## Technologies Used
+- Python
 
 ## Learning Outcome
-- Improved understanding of Python lists
-- Learned how to build menu-based applications
+- Gained a better understanding of Python lists
+- Improved logic-building skills
+- Learned how to handle user input and errors
+- Practiced writing clean and readable code
