@@ -1,5 +1,4 @@
-# ✊✋✌️ Task 4: Rock–Paper–Scissors Game (Python)
-
+# ✊✋✌️ Task 4: Rock–Paper–Scissors Game 
 ## 🎯 Objective
 The objective of this task is to create a simple Rock–Paper–Scissors game
 using Python where the user plays against the computer.
@@ -37,3 +36,4 @@ and the result is displayed clearly.
 - Learned how to use randomness in Python
 - Practiced handling user input effectively
 - Built a simple interactive game using core Python concepts
+
