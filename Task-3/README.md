@@ -1,4 +1,4 @@
-# 🔐 Task 3: Password Generator (Python)
+# 🔐 Task 3: Password Generator
 
 ## 🎯 Objective
 The objective of this task is to create a password generator application
@@ -32,3 +32,4 @@ letters, numbers, and special characters.
 - Understood the importance of password security
 - Practiced working with strings and user input
 - Improved logical thinking and problem-solving skills
+
